@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Cazoo-uk/poc-automate-versioning/issues"
   },
-  "homepage": "https://github.com/Cazoo-uk/poc-automate-versioning#readme"
+  "homepage": "https://github.com/Cazoo-uk/poc-automate-versioning#readme",
+  "devDependencies": {
+    "@semantic-release/git": "^10.0.1"
+  }
 }
