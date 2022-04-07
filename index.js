@@ -1,2 +1,3 @@
 const sum = (a, b) => a + b;
-export { sum };
+const multiply = (a, b) => a * b;
+export { sum, multiply };
