@@ -8,14 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Cazoo-uk/poc-automate-versioning.git"
+    "url": "git@github.com:milton-cazoo/poc-automate-versioning.git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Cazoo-uk/poc-automate-versioning/issues"
-  },
-  "homepage": "https://github.com/Cazoo-uk/poc-automate-versioning#readme",
+  "homepage": "https://github.com/milton-cazoo/poc-automate-versioning#readme",
   "devDependencies": {
     "@semantic-release/git": "^10.0.1"
   }
