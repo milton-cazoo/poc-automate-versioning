@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cazoo-uk/poc-automate-versioning.git"
+    "url": "git@github.com:Cazoo-uk/poc-automate-versioning.git"
   },
   "author": "",
   "license": "ISC",
