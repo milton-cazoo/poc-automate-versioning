@@ -15,5 +15,9 @@
   "homepage": "https://github.com/milton-cazoo/poc-automate-versioning#readme",
   "devDependencies": {
     "@semantic-release/git": "^10.0.1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/",
+    "tag": "latest"
   }
 }
