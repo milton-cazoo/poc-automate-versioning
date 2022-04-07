@@ -1,0 +1,19 @@
+{
+  "name": "poc-automate-versioning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cazoo-uk/poc-automate-versioning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cazoo-uk/poc-automate-versioning/issues"
+  },
+  "homepage": "https://github.com/Cazoo-uk/poc-automate-versioning#readme"
+}
